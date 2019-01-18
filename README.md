@@ -1,2 +1,3 @@
 # poeaffix.github.io
-Website
+[dev version](https://imaginarydevelopment.github.io/poeaffix.github.io/)
+[live version](http://poeaffix.net/index.html)
